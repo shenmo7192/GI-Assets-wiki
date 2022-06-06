@@ -1,2 +1,3 @@
 # GI-Assets-wiki
-Chinese Wiki for GI_Assets
+
+This is only meant as a wiki page for GI_Assets
